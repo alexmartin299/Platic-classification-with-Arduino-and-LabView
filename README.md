@@ -1,1 +1,1 @@
-# Platic-classification-with-Arduino-and-LabView
+# Plastic-classification-with-Arduino-and-LabView
